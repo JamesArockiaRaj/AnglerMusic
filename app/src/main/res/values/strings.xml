@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnglerMusic</string>
+    <string name="song_title">Song Title</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="collection_name">Collection Name</string>
+</resources>
